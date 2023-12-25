@@ -18,12 +18,15 @@
     <ClCompile Include="Main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Coshelek.cpp">
+    <ClCompile Include="Wallet.cpp">
       <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Const.cpp">
+      <Filter>Файлы ресурсов</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Coshelek.h">
+    <ClInclude Include="Wallet.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="Const.h">
